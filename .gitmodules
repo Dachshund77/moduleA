@@ -1,3 +1,4 @@
 [submodule "ModuleB"]
 	path = ModuleB
 	url = https://github.com/Dachshund77/ModuleB.git
+	branch = master
